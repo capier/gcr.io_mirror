@@ -1,4 +1,4 @@
-Google Container Registry Mirror [last sync 2018-06-12 13:51 UTC]
+Google Container Registry Mirror [last sync 2018-06-12 14:38 UTC]
 -------
 
 [![Sync Status](https://travis-ci.org/anjia0532/gcr.io_mirror.svg?branch=sync)](https://travis-ci.org/anjia0532/gcr.io_mirror)
@@ -56,13 +56,25 @@ done
 [Changelog](./CHANGES.md)
 -------
 
-Mirror 2 namespaces image from gcr.io
+Mirror 6 namespaces image from gcr.io
 -----
+
+
+[gcr.io/google-samples/*](./google-samples/README.md)
+
+
+[gcr.io/kubernetes-helm/*](./kubernetes-helm/README.md)
+
+
+[gcr.io/k8s-minikube/*](./k8s-minikube/README.md)
 
 
 [gcr.io/tf-on-k8s-dogfood/*](./tf-on-k8s-dogfood/README.md)
 
 
-[gcr.io/google-samples/*](./google-samples/README.md)
+[gcr.io/spinnaker-marketplace/*](./spinnaker-marketplace/README.md)
+
+
+[gcr.io/google-containers/*](./google-containers/README.md)
 
 
