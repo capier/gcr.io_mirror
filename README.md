@@ -1,4 +1,4 @@
-Google Container Registry Mirror [last sync  UTC]
+Google Container Registry Mirror [last sync 2018-06-12 09:17 UTC]
 -------
 
 [![Sync Status](https://travis-ci.org/anjia0532/gcr.io_mirror.svg?branch=sync)](https://travis-ci.org/anjia0532/gcr.io_mirror)
@@ -56,10 +56,13 @@ done
 [Changelog](./CHANGES.md)
 -------
 
-Mirror 1 namespaces image from gcr.io
+Mirror 2 namespaces image from gcr.io
 -----
 
 
 [gcr.io/tf-on-k8s-dogfood/*](./tf-on-k8s-dogfood/README.md)
+
+
+[gcr.io/google-samples/*](./google-samples/README.md)
 
 
