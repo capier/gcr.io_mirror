@@ -105,3 +105,12 @@
 [gcr.io/spinnaker-marketplace/monitoring-daemon:0.7.0-20180601022805](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.monitoring-daemon/tags/)
 
 
+[gcr.io/spinnaker-marketplace/monitoring-daemon:0.7.0-20180614022806](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.monitoring-daemon/tags/)
+
+
+[gcr.io/spinnaker-marketplace/monitoring-daemon:0.7.0-20180614100305](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.monitoring-daemon/tags/)
+
+
+[gcr.io/spinnaker-marketplace/monitoring-daemon:0.7.0-20180615022807](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.monitoring-daemon/tags/)
+
+

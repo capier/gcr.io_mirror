@@ -6,6 +6,9 @@
 [gcr.io/google-containers/custom-metrics-stackdriver-adapter:staging](https://hub.docker.com/r/anjia0532/google-containers.custom-metrics-stackdriver-adapter/tags/)
 
 
+[gcr.io/google-containers/custom-metrics-stackdriver-adapter:testing](https://hub.docker.com/r/anjia0532/google-containers.custom-metrics-stackdriver-adapter/tags/)
+
+
 [gcr.io/google-containers/custom-metrics-stackdriver-adapter:v0.1.0](https://hub.docker.com/r/anjia0532/google-containers.custom-metrics-stackdriver-adapter/tags/)
 
 

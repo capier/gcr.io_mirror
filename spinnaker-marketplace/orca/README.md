@@ -156,6 +156,12 @@
 [gcr.io/spinnaker-marketplace/orca:0.12.0-20180612082418](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.orca/tags/)
 
 
+[gcr.io/spinnaker-marketplace/orca:0.12.0-20180614022806](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.orca/tags/)
+
+
+[gcr.io/spinnaker-marketplace/orca:0.12.0-20180615022807](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.orca/tags/)
+
+
 [gcr.io/spinnaker-marketplace/orca:0.4.0-33](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.orca/tags/)
 
 

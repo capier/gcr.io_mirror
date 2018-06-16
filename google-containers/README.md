@@ -839,6 +839,11 @@
 
 
 
+[gcr.io/google-containers/hyperkube](https://hub.docker.com/r/anjia0532/google-containers.hyperkube/tags/)
+-----
+
+
+
 [gcr.io/google-containers/hyperkube-amd64](https://hub.docker.com/r/anjia0532/google-containers.hyperkube-amd64/tags/)
 -----
 
@@ -850,11 +855,6 @@
 
 
 [gcr.io/google-containers/hyperkube-arm](https://hub.docker.com/r/anjia0532/google-containers.hyperkube-arm/tags/)
------
-
-
-
-[gcr.io/google-containers/hyperkube](https://hub.docker.com/r/anjia0532/google-containers.hyperkube/tags/)
 -----
 
 
