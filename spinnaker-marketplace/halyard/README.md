@@ -18,6 +18,9 @@
 [gcr.io/spinnaker-marketplace/halyard:0.30.1-149](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
+[gcr.io/spinnaker-marketplace/halyard:0.30.1-151](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
 [gcr.io/spinnaker-marketplace/halyard:0.30.1-152](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
@@ -30,7 +33,13 @@
 [gcr.io/spinnaker-marketplace/halyard:0.30.1-157](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
+[gcr.io/spinnaker-marketplace/halyard:0.30.1-196](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
 [gcr.io/spinnaker-marketplace/halyard:0.30.1-20170802063035](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
+[gcr.io/spinnaker-marketplace/halyard:0.31.0-164](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
 [gcr.io/spinnaker-marketplace/halyard:0.31.0-167](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
@@ -61,6 +70,9 @@
 
 
 [gcr.io/spinnaker-marketplace/halyard:0.32.0](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
+[gcr.io/spinnaker-marketplace/halyard:0.32.1](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
 [gcr.io/spinnaker-marketplace/halyard:0.33.0-20170817063041](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
@@ -153,10 +165,19 @@
 [gcr.io/spinnaker-marketplace/halyard:0.34.0-20170910063038](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
+[gcr.io/spinnaker-marketplace/halyard:0.34.0-20170912063041](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
 [gcr.io/spinnaker-marketplace/halyard:0.34.0-20170913063041](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
 [gcr.io/spinnaker-marketplace/halyard:0.34.0](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
+[gcr.io/spinnaker-marketplace/halyard:0.34.1-20170914063040](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
+[gcr.io/spinnaker-marketplace/halyard:0.34.1-20170916063040](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
 [gcr.io/spinnaker-marketplace/halyard:0.35.0-20170917063040](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
@@ -201,6 +222,9 @@
 [gcr.io/spinnaker-marketplace/halyard:0.35.0-20170926063043](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
+[gcr.io/spinnaker-marketplace/halyard:0.35.0-20170926125700](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
 [gcr.io/spinnaker-marketplace/halyard:0.35.0-20170928063036](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
@@ -222,6 +246,15 @@
 [gcr.io/spinnaker-marketplace/halyard:0.35.0-20171011063039](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
+[gcr.io/spinnaker-marketplace/halyard:0.35.0-20171011154419](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
+[gcr.io/spinnaker-marketplace/halyard:0.36.0-20171012063038](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
+[gcr.io/spinnaker-marketplace/halyard:0.36.0-20171015063040](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
 [gcr.io/spinnaker-marketplace/halyard:0.36.0-20171016063039](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
@@ -229,6 +262,9 @@
 
 
 [gcr.io/spinnaker-marketplace/halyard:0.36.0-20171017162905](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
+[gcr.io/spinnaker-marketplace/halyard:0.36.0-20171018035026](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
 [gcr.io/spinnaker-marketplace/halyard:0.36.0-20171018063034](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
@@ -252,13 +288,22 @@
 [gcr.io/spinnaker-marketplace/halyard:0.36.0-20171023192553](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
+[gcr.io/spinnaker-marketplace/halyard:0.36.0-20171023202946](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
 [gcr.io/spinnaker-marketplace/halyard:0.36.0-20171024161206](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
+[gcr.io/spinnaker-marketplace/halyard:0.36.0-20171024164302](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
 [gcr.io/spinnaker-marketplace/halyard:0.36.0-20171024182107](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
 [gcr.io/spinnaker-marketplace/halyard:0.36.0-20171024183207](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
+[gcr.io/spinnaker-marketplace/halyard:0.36.0-20171024211216](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
 [gcr.io/spinnaker-marketplace/halyard:0.36.0-20171025063037](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
@@ -279,13 +324,22 @@
 [gcr.io/spinnaker-marketplace/halyard:0.36.0-20171028063037](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
+[gcr.io/spinnaker-marketplace/halyard:0.36.0-20171029063035](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
 [gcr.io/spinnaker-marketplace/halyard:0.36.0-20171030063036](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
 [gcr.io/spinnaker-marketplace/halyard:0.36.0-20171030172948](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
+[gcr.io/spinnaker-marketplace/halyard:0.36.0-20171101063041](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
 [gcr.io/spinnaker-marketplace/halyard:0.36.0-20171101185831](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
+[gcr.io/spinnaker-marketplace/halyard:0.36.0-20171102151451](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
 [gcr.io/spinnaker-marketplace/halyard:0.36.0-20171102190400](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
@@ -294,10 +348,16 @@
 [gcr.io/spinnaker-marketplace/halyard:0.36.0-20171103063038](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
+[gcr.io/spinnaker-marketplace/halyard:0.36.0-20171104063035](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
 [gcr.io/spinnaker-marketplace/halyard:0.36.0-20171105063033](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
 [gcr.io/spinnaker-marketplace/halyard:0.36.0-20171106063035](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
+[gcr.io/spinnaker-marketplace/halyard:0.36.0-20171106193006](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
 [gcr.io/spinnaker-marketplace/halyard:0.36.0-20171107063034](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
@@ -306,7 +366,13 @@
 [gcr.io/spinnaker-marketplace/halyard:0.36.0-20171108063034](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
+[gcr.io/spinnaker-marketplace/halyard:0.36.0-20171108151529](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
 [gcr.io/spinnaker-marketplace/halyard:0.36.0-20171109063034](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
+[gcr.io/spinnaker-marketplace/halyard:0.36.0-20171109140107](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
 [gcr.io/spinnaker-marketplace/halyard:0.38.0-20171110063036](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
@@ -325,6 +391,18 @@
 
 
 [gcr.io/spinnaker-marketplace/halyard:0.38.0-20171117063033](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
+[gcr.io/spinnaker-marketplace/halyard:0.38.0-20171118063035](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
+[gcr.io/spinnaker-marketplace/halyard:0.38.0-20171120063033](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
+[gcr.io/spinnaker-marketplace/halyard:0.38.0-20171120173228](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
+[gcr.io/spinnaker-marketplace/halyard:0.38.0-20171120221732](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
 [gcr.io/spinnaker-marketplace/halyard:0.38.0-20171121180608](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
@@ -351,7 +429,13 @@
 [gcr.io/spinnaker-marketplace/halyard:0.38.0-20171127204433](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
+[gcr.io/spinnaker-marketplace/halyard:0.38.0-20171128063138](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
 [gcr.io/spinnaker-marketplace/halyard:0.38.0-20171128161842](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
+[gcr.io/spinnaker-marketplace/halyard:0.38.0-20171128191841](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
 [gcr.io/spinnaker-marketplace/halyard:0.38.0-20171128215135](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
@@ -402,6 +486,9 @@
 [gcr.io/spinnaker-marketplace/halyard:0.38.0-20171202040732](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
+[gcr.io/spinnaker-marketplace/halyard:0.38.0-20171202070931](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
 [gcr.io/spinnaker-marketplace/halyard:0.38.0-20171202071421](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
@@ -436,6 +523,12 @@
 
 
 [gcr.io/spinnaker-marketplace/halyard:0.38.0-20171205073357](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
+[gcr.io/spinnaker-marketplace/halyard:0.38.0-20171206073852](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
+[gcr.io/spinnaker-marketplace/halyard:0.38.0-20171207063132](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
 [gcr.io/spinnaker-marketplace/halyard:0.38.0-20171208170128](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
@@ -546,7 +639,16 @@
 [gcr.io/spinnaker-marketplace/halyard:0.39.0-20171222150435](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
+[gcr.io/spinnaker-marketplace/halyard:0.39.0-20171223063041](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
+[gcr.io/spinnaker-marketplace/halyard:0.39.0-20171227183637](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
 [gcr.io/spinnaker-marketplace/halyard:0.39.0-20171227185406](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
+[gcr.io/spinnaker-marketplace/halyard:0.39.0-20171227193707](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
 [gcr.io/spinnaker-marketplace/halyard:0.39.0-20171228065002](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
@@ -558,10 +660,19 @@
 [gcr.io/spinnaker-marketplace/halyard:0.39.0-20171228153542](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
+[gcr.io/spinnaker-marketplace/halyard:0.39.0-20171229063042](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
 [gcr.io/spinnaker-marketplace/halyard:0.39.0-20171230063036](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
 [gcr.io/spinnaker-marketplace/halyard:0.39.0-20171231072737](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
+[gcr.io/spinnaker-marketplace/halyard:0.39.0-20180101063037](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
+[gcr.io/spinnaker-marketplace/halyard:0.39.0-20180102063038](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
 [gcr.io/spinnaker-marketplace/halyard:0.39.0-20180103065128](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
@@ -588,7 +699,16 @@
 [gcr.io/spinnaker-marketplace/halyard:0.40.0-20180108173556](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
+[gcr.io/spinnaker-marketplace/halyard:0.40.0-20180108192327](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
 [gcr.io/spinnaker-marketplace/halyard:0.40.0-20180108213858](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
+[gcr.io/spinnaker-marketplace/halyard:0.40.0-20180108215059](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
+[gcr.io/spinnaker-marketplace/halyard:0.40.0-20180109063043](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
 [gcr.io/spinnaker-marketplace/halyard:0.40.0-20180109181143](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
@@ -603,10 +723,22 @@
 [gcr.io/spinnaker-marketplace/halyard:0.40.0-20180110144440](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
+[gcr.io/spinnaker-marketplace/halyard:0.40.0-20180111063040](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
 [gcr.io/spinnaker-marketplace/halyard:0.40.0-20180112063042](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
+[gcr.io/spinnaker-marketplace/halyard:0.41.0-180209172926](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
+[gcr.io/spinnaker-marketplace/halyard:0.41.0-180209180343](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
 [gcr.io/spinnaker-marketplace/halyard:0.41.0-20180114063042](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
+[gcr.io/spinnaker-marketplace/halyard:0.41.0-20180116065218](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
 [gcr.io/spinnaker-marketplace/halyard:0.41.0-20180116151656](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
@@ -621,6 +753,9 @@
 [gcr.io/spinnaker-marketplace/halyard:0.41.0-20180117201133](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
+[gcr.io/spinnaker-marketplace/halyard:0.41.0-20180118174608](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
 [gcr.io/spinnaker-marketplace/halyard:0.41.0-20180120063051](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
@@ -628,6 +763,9 @@
 
 
 [gcr.io/spinnaker-marketplace/halyard:0.41.0-20180122063049](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
+[gcr.io/spinnaker-marketplace/halyard:0.41.0-20180125063050](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
 [gcr.io/spinnaker-marketplace/halyard:0.41.0-20180125065538](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
@@ -651,10 +789,16 @@
 [gcr.io/spinnaker-marketplace/halyard:0.41.0-20180129063044](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
+[gcr.io/spinnaker-marketplace/halyard:0.41.0-20180129150930](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
 [gcr.io/spinnaker-marketplace/halyard:0.41.0-20180129192530](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
 [gcr.io/spinnaker-marketplace/halyard:0.41.0-20180131063045](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
+[gcr.io/spinnaker-marketplace/halyard:0.41.0-20180201180947](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
 [gcr.io/spinnaker-marketplace/halyard:0.41.0-20180201183529](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
@@ -666,7 +810,13 @@
 [gcr.io/spinnaker-marketplace/halyard:0.41.0-20180201220431](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
+[gcr.io/spinnaker-marketplace/halyard:0.41.0-20180202171548](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
 [gcr.io/spinnaker-marketplace/halyard:0.41.0-20180202193843](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
+[gcr.io/spinnaker-marketplace/halyard:0.41.0-20180203063041](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
 [gcr.io/spinnaker-marketplace/halyard:0.41.0-20180204063041](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
@@ -679,6 +829,9 @@
 
 
 [gcr.io/spinnaker-marketplace/halyard:0.43.0-180308020507](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
+[gcr.io/spinnaker-marketplace/halyard:0.43.0-180316161219](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
 [gcr.io/spinnaker-marketplace/halyard:0.43.0-180317130715](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
@@ -696,10 +849,16 @@
 [gcr.io/spinnaker-marketplace/halyard:0.43.0-20180325030509](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
+[gcr.io/spinnaker-marketplace/halyard:0.43.0-20180327030510](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
 [gcr.io/spinnaker-marketplace/halyard:0.43.0-20180327141417](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
 [gcr.io/spinnaker-marketplace/halyard:0.45.0-20180330030510](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
+[gcr.io/spinnaker-marketplace/halyard:0.45.0-20180404030510](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
 [gcr.io/spinnaker-marketplace/halyard:0.45.0-20180408030509](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
@@ -726,6 +885,9 @@
 [gcr.io/spinnaker-marketplace/halyard:0.48.0-20180413030506](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
+[gcr.io/spinnaker-marketplace/halyard:0.48.1-20180413145934](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
 [gcr.io/spinnaker-marketplace/halyard:1.0.0-20180417105113](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
@@ -736,6 +898,12 @@
 
 
 [gcr.io/spinnaker-marketplace/halyard:1.1.1-20180428030507](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
+[gcr.io/spinnaker-marketplace/halyard:1.1.1-20180430174116](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
+[gcr.io/spinnaker-marketplace/halyard:1.2.0-20180501104000](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
 [gcr.io/spinnaker-marketplace/halyard:1.2.0-20180502030508](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
@@ -772,6 +940,9 @@
 
 
 [gcr.io/spinnaker-marketplace/halyard:1.3.0-20180605030505](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
+[gcr.io/spinnaker-marketplace/halyard:1.3.0-20180607030505](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
 [gcr.io/spinnaker-marketplace/halyard:1.3.0-20180609030508](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
