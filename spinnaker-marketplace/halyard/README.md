@@ -1593,3 +1593,6 @@
 [gcr.io/spinnaker-marketplace/halyard:1.3.0](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
+[gcr.io/spinnaker-marketplace/halyard:1.3.1-20180616030507](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
