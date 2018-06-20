@@ -1,3 +1,8 @@
+## 2018-06-20 05:50 
+
+[gcr.io/spinnaker-marketplace/gradle_cache:latest](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.gradle_cache/tags/)
+
+
 ## 2018-06-20 02:52 
 
 [gcr.io/google-containers/kube-proxy-amd64:v1.8.15-beta.0](https://hub.docker.com/r/anjia0532/google-containers.kube-proxy-amd64/tags/)
