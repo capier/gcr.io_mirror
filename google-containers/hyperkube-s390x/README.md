@@ -378,6 +378,12 @@
 [gcr.io/google-containers/hyperkube-s390x:v1.8.14-beta.0](https://hub.docker.com/r/anjia0532/google-containers.hyperkube-s390x/tags/)
 
 
+[gcr.io/google-containers/hyperkube-s390x:v1.8.14](https://hub.docker.com/r/anjia0532/google-containers.hyperkube-s390x/tags/)
+
+
+[gcr.io/google-containers/hyperkube-s390x:v1.8.15-beta.0](https://hub.docker.com/r/anjia0532/google-containers.hyperkube-s390x/tags/)
+
+
 [gcr.io/google-containers/hyperkube-s390x:v1.8.1-beta.0](https://hub.docker.com/r/anjia0532/google-containers.hyperkube-s390x/tags/)
 
 

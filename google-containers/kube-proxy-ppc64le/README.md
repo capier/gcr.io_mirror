@@ -435,6 +435,12 @@
 [gcr.io/google-containers/kube-proxy-ppc64le:v1.8.14-beta.0](https://hub.docker.com/r/anjia0532/google-containers.kube-proxy-ppc64le/tags/)
 
 
+[gcr.io/google-containers/kube-proxy-ppc64le:v1.8.14](https://hub.docker.com/r/anjia0532/google-containers.kube-proxy-ppc64le/tags/)
+
+
+[gcr.io/google-containers/kube-proxy-ppc64le:v1.8.15-beta.0](https://hub.docker.com/r/anjia0532/google-containers.kube-proxy-ppc64le/tags/)
+
+
 [gcr.io/google-containers/kube-proxy-ppc64le:v1.8.1-beta.0](https://hub.docker.com/r/anjia0532/google-containers.kube-proxy-ppc64le/tags/)
 
 
