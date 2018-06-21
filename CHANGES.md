@@ -1,3 +1,38 @@
+## 2018-06-21 00:52 
+
+[gcr.io/spinnaker-marketplace/deck:2.3.0-20180620022809](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.deck/tags/)
+
+
+[gcr.io/spinnaker-marketplace/kayenta:0.2.0-20180620112550](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.kayenta/tags/)
+
+
+[gcr.io/spinnaker-marketplace/igor:0.11.0-20180620112550](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.igor/tags/)
+
+
+[gcr.io/spinnaker-marketplace/fiat:1.0.0-20180620022809](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.fiat/tags/)
+
+
+[gcr.io/spinnaker-marketplace/clouddriver:3.2.0-20180620022809](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.clouddriver/tags/)
+
+
+[gcr.io/k8s-minikube/localkube-image:525c615a17106eedd3c3723dc9e642fa2a41166d](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-image/tags/)
+
+
+[gcr.io/spinnaker-marketplace/kayenta:0.2.0-20180620022809](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.kayenta/tags/)
+
+
+[gcr.io/spinnaker-marketplace/deck:2.3.0-20180620112550](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.deck/tags/)
+
+
+[gcr.io/k8s-minikube/localkube-dind-image:525c615a17106eedd3c3723dc9e642fa2a41166d](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-dind-image/tags/)
+
+
+[gcr.io/k8s-minikube/localkube-dind-image-devshell:525c615a17106eedd3c3723dc9e642fa2a41166d](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-dind-image-devshell/tags/)
+
+
+[gcr.io/spinnaker-marketplace/echo:1.0.0-20180620022809](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.echo/tags/)
+
+
 ## 2018-06-20 05:50 
 
 [gcr.io/spinnaker-marketplace/gradle_cache:latest](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.gradle_cache/tags/)

@@ -51,6 +51,9 @@
 [gcr.io/spinnaker-marketplace/igor:0.11.0-20180619022807](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.igor/tags/)
 
 
+[gcr.io/spinnaker-marketplace/igor:0.11.0-20180620112550](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.igor/tags/)
+
+
 [gcr.io/spinnaker-marketplace/igor:0.3.0-33](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.igor/tags/)
 
 
