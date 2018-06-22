@@ -15,3 +15,6 @@
 [gcr.io/google-containers/k8s-tpu-operator:46814a58df4630543c6e799add1239808c161ba0](https://hub.docker.com/r/anjia0532/google-containers.k8s-tpu-operator/tags/)
 
 
+[gcr.io/google-containers/k8s-tpu-operator:8ae2315a703fc687cbffcb496f31ba1ae48d0b46](https://hub.docker.com/r/anjia0532/google-containers.k8s-tpu-operator/tags/)
+
+

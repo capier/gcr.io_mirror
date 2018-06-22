@@ -231,3 +231,6 @@
 [gcr.io/spinnaker-marketplace/deck:2.3.0-20180620112550](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.deck/tags/)
 
 
+[gcr.io/spinnaker-marketplace/deck:2.3.0-20180621083719](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.deck/tags/)
+
+
