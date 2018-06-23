@@ -36,3 +36,6 @@
 [gcr.io/google-containers/node-problem-detector:v0.4.1](https://hub.docker.com/r/anjia0532/google-containers.node-problem-detector/tags/)
 
 
+[gcr.io/google-containers/node-problem-detector:v0.5.0](https://hub.docker.com/r/anjia0532/google-containers.node-problem-detector/tags/)
+
+
