@@ -180,6 +180,9 @@
 [gcr.io/k8s-minikube/localkube-dind-image-devshell:27dc047b8b203b28a1847820f698d4432a6792c3](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-dind-image-devshell/tags/)
 
 
+[gcr.io/k8s-minikube/localkube-dind-image-devshell:27f179b9b1e6830f68c1bd03c47e478c7d81dc16](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-dind-image-devshell/tags/)
+
+
 [gcr.io/k8s-minikube/localkube-dind-image-devshell:2b02aa30a74e6abc8be7d7c643f76673755699dc](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-dind-image-devshell/tags/)
 
 
