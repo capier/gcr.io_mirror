@@ -90,6 +90,9 @@
 [gcr.io/google-containers/cloud-controller-manager-ppc64le:v1.11.0-rc.1](https://hub.docker.com/r/anjia0532/google-containers.cloud-controller-manager-ppc64le/tags/)
 
 
+[gcr.io/google-containers/cloud-controller-manager-ppc64le:v1.11.0-rc.2](https://hub.docker.com/r/anjia0532/google-containers.cloud-controller-manager-ppc64le/tags/)
+
+
 [gcr.io/google-containers/cloud-controller-manager-ppc64le:v1.12.0-alpha.0](https://hub.docker.com/r/anjia0532/google-containers.cloud-controller-manager-ppc64le/tags/)
 
 

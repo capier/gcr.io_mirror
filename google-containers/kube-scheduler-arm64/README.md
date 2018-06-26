@@ -90,6 +90,9 @@
 [gcr.io/google-containers/kube-scheduler-arm64:v1.11.0-rc.1](https://hub.docker.com/r/anjia0532/google-containers.kube-scheduler-arm64/tags/)
 
 
+[gcr.io/google-containers/kube-scheduler-arm64:v1.11.0-rc.2](https://hub.docker.com/r/anjia0532/google-containers.kube-scheduler-arm64/tags/)
+
+
 [gcr.io/google-containers/kube-scheduler-arm64:v1.12.0-alpha.0](https://hub.docker.com/r/anjia0532/google-containers.kube-scheduler-arm64/tags/)
 
 

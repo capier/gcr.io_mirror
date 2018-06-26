@@ -1564,6 +1564,11 @@
 
 
 
+[gcr.io/google-containers/minikube-nvidia-driver-installer](https://hub.docker.com/r/anjia0532/google-containers.minikube-nvidia-driver-installer/tags/)
+-----
+
+
+
 [gcr.io/google-containers/mongodb-install](https://hub.docker.com/r/anjia0532/google-containers.mongodb-install/tags/)
 -----
 
