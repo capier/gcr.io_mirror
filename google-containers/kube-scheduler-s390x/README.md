@@ -93,6 +93,9 @@
 [gcr.io/google-containers/kube-scheduler-s390x:v1.11.0-rc.2](https://hub.docker.com/r/anjia0532/google-containers.kube-scheduler-s390x/tags/)
 
 
+[gcr.io/google-containers/kube-scheduler-s390x:v1.11.0-rc.3](https://hub.docker.com/r/anjia0532/google-containers.kube-scheduler-s390x/tags/)
+
+
 [gcr.io/google-containers/kube-scheduler-s390x:v1.12.0-alpha.0](https://hub.docker.com/r/anjia0532/google-containers.kube-scheduler-s390x/tags/)
 
 

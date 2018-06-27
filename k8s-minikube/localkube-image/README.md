@@ -618,6 +618,9 @@
 [gcr.io/k8s-minikube/localkube-image:7dcdbc1bde1d59face5cba6e0195e4ed17d9abe7](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-image/tags/)
 
 
+[gcr.io/k8s-minikube/localkube-image:7dddc9fe2918f0c7a4adbd39f7e238532fb72345](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-image/tags/)
+
+
 [gcr.io/k8s-minikube/localkube-image:7e5bb311b09b20e66624ee1a2ff4d23b489b1d55](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-image/tags/)
 
 
@@ -961,6 +964,9 @@
 
 
 [gcr.io/k8s-minikube/localkube-image:bcf2e4635ef7d296ebd4e63d8cd19025b19f2b36](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-image/tags/)
+
+
+[gcr.io/k8s-minikube/localkube-image:bda79d8d1c247e7915e3d5393c83d6fabe47da73](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-image/tags/)
 
 
 [gcr.io/k8s-minikube/localkube-image:be046c791be3ff19e182db61a66313abb422193f](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-image/tags/)
