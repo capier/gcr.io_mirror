@@ -1104,6 +1104,9 @@
 [gcr.io/k8s-minikube/localkube-image:d924c7b61a5306ea09692898c927ea5fd239f6e7](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-image/tags/)
 
 
+[gcr.io/k8s-minikube/localkube-image:d9c4a4cdcfb16f563a8741ac1f040149d542a78a](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-image/tags/)
+
+
 [gcr.io/k8s-minikube/localkube-image:da38114dd0653e68869a8c07031e4086ca80648b](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-image/tags/)
 
 
