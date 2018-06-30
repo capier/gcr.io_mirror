@@ -189,3 +189,6 @@
 [gcr.io/google-containers/etcd:v2.0.3](https://hub.docker.com/r/anjia0532/google-containers.etcd/tags/)
 
 
+[gcr.io/google-containers/etcd:v3.3.8-0-gke.1](https://hub.docker.com/r/anjia0532/google-containers.etcd/tags/)
+
+

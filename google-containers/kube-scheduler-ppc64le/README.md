@@ -540,6 +540,9 @@
 [gcr.io/google-containers/kube-scheduler-ppc64le:v1.9.0](https://hub.docker.com/r/anjia0532/google-containers.kube-scheduler-ppc64le/tags/)
 
 
+[gcr.io/google-containers/kube-scheduler-ppc64le:v1.9.10-beta.0](https://hub.docker.com/r/anjia0532/google-containers.kube-scheduler-ppc64le/tags/)
+
+
 [gcr.io/google-containers/kube-scheduler-ppc64le:v1.9.1-beta.0](https://hub.docker.com/r/anjia0532/google-containers.kube-scheduler-ppc64le/tags/)
 
 
@@ -589,5 +592,8 @@
 
 
 [gcr.io/google-containers/kube-scheduler-ppc64le:v1.9.9-beta.0](https://hub.docker.com/r/anjia0532/google-containers.kube-scheduler-ppc64le/tags/)
+
+
+[gcr.io/google-containers/kube-scheduler-ppc64le:v1.9.9](https://hub.docker.com/r/anjia0532/google-containers.kube-scheduler-ppc64le/tags/)
 
 
