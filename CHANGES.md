@@ -1,3 +1,11 @@
+## 2018-07-01 00:57 
+
+[gcr.io/spinnaker-marketplace/fiat:1.0.0-20180629215316](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.fiat/tags/)
+
+
+[gcr.io/spinnaker-marketplace/gradle_cache:latest](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.gradle_cache/tags/)
+
+
 ## 2018-06-30 01:13 
 
 [gcr.io/google-containers/kube-proxy:v1.9.10-beta.0](https://hub.docker.com/r/anjia0532/google-containers.kube-proxy/tags/)
