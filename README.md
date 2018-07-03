@@ -1,4 +1,4 @@
-Google Container Registry Mirror [last sync 2018-07-03 01:04 UTC]
+Google Container Registry Mirror [last sync 2018-07-03 02:04 UTC]
 -------
 
 [![Sync Status](https://travis-ci.org/anjia0532/gcr.io_mirror.svg?branch=sync)](https://travis-ci.org/anjia0532/gcr.io_mirror)
@@ -37,7 +37,7 @@ images=$(cat img.txt)
 # gcr.io/google-containers/federation-controller-manager-arm64:v1.3.1-beta.1
 #EOF)
 
-eval $(echo |
+eval $(echo ${images}|
         sed 's/gcr\.io/anjia0532/g;s/\//\./g;s/ /\n/g;s/anjia0532\./anjia0532\//g' |
         uniq |
         awk '{print "docker pull "$1";"}'
@@ -47,9 +47,9 @@ eval $(echo |
 # to gcr.io/google-containers/federation-controller-manager-arm64:v1.3.1-beta.1
 
 for img in $(docker images --format "{{.Repository}}:{{.Tag}}"| grep "anjia0532"); do
-  n=$(echo | awk -F'[/.:]' '{printf "gcr.io/%s/%s",$2,$3}')
-  tag=$(echo | awk -F'[:]' '{printf ":%s",$2}')
-  docker tag  ""
+  n=$(echo ${img}| awk -F'[/.:]' '{printf "gcr.io/%s/%s",$2,$3}')
+  tag=$(echo ${img}| awk -F'[:]' '{printf ":%s",$2}')
+  docker tag $img "${n}${tag}"
 done
 ```
 
