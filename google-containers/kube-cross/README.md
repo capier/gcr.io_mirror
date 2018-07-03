@@ -9,6 +9,9 @@
 [gcr.io/google-containers/kube-cross:v1.10.2-1](https://hub.docker.com/r/anjia0532/google-containers.kube-cross/tags/)
 
 
+[gcr.io/google-containers/kube-cross:V1.10.3-1](https://hub.docker.com/r/anjia0532/google-containers.kube-cross/tags/)
+
+
 [gcr.io/google-containers/kube-cross:v1.4.2-1](https://hub.docker.com/r/anjia0532/google-containers.kube-cross/tags/)
 
 
