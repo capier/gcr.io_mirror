@@ -147,6 +147,9 @@
 [gcr.io/google-containers/cluster-autoscaler:v1.0.5](https://hub.docker.com/r/anjia0532/google-containers.cluster-autoscaler/tags/)
 
 
+[gcr.io/google-containers/cluster-autoscaler:v1.0.6](https://hub.docker.com/r/anjia0532/google-containers.cluster-autoscaler/tags/)
+
+
 [gcr.io/google-containers/cluster-autoscaler:v1.1.0-alpha1](https://hub.docker.com/r/anjia0532/google-containers.cluster-autoscaler/tags/)
 
 
@@ -160,6 +163,9 @@
 
 
 [gcr.io/google-containers/cluster-autoscaler:v1.1.2](https://hub.docker.com/r/anjia0532/google-containers.cluster-autoscaler/tags/)
+
+
+[gcr.io/google-containers/cluster-autoscaler:v1.1.3](https://hub.docker.com/r/anjia0532/google-containers.cluster-autoscaler/tags/)
 
 
 [gcr.io/google-containers/cluster-autoscaler:v1.2.0-beta1](https://hub.docker.com/r/anjia0532/google-containers.cluster-autoscaler/tags/)

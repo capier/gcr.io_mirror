@@ -318,6 +318,9 @@
 [gcr.io/k8s-minikube/localkube-dind-image:44219fefb1d2a6274d6c4a5ea24bba44b52047e5](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-dind-image/tags/)
 
 
+[gcr.io/k8s-minikube/localkube-dind-image:4485e086001498ed6a1d980efdcb6e01ee492b3b](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-dind-image/tags/)
+
+
 [gcr.io/k8s-minikube/localkube-dind-image:4534bfbdd9f03204da265adabfe0e6856d40e21b](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-dind-image/tags/)
 
 
@@ -540,6 +543,9 @@
 [gcr.io/k8s-minikube/localkube-dind-image:6c2c52d7bd1fc9350bc67107f9e0d6d92ef84a2e](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-dind-image/tags/)
 
 
+[gcr.io/k8s-minikube/localkube-dind-image:6d4912a0a30b1480c711417ea686821bc3fde673](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-dind-image/tags/)
+
+
 [gcr.io/k8s-minikube/localkube-dind-image:6dfa3f519f41e986b715f1475f5010ee8fa5ff60](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-dind-image/tags/)
 
 
@@ -634,6 +640,9 @@
 
 
 [gcr.io/k8s-minikube/localkube-dind-image:820cfb145e0c2a37977cc75ceecad3518c048751](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-dind-image/tags/)
+
+
+[gcr.io/k8s-minikube/localkube-dind-image:836aee0084cac38c1734d78179ed017157f93d0f](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-dind-image/tags/)
 
 
 [gcr.io/k8s-minikube/localkube-dind-image:84a37e9a149dbd7aa2f4852a0491cf5b23035493](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-dind-image/tags/)
@@ -1288,6 +1297,9 @@
 
 
 [gcr.io/k8s-minikube/localkube-dind-image:f2c41223a7be475696898df1fef22d26ac0c137c](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-dind-image/tags/)
+
+
+[gcr.io/k8s-minikube/localkube-dind-image:f4bd357fe1c7911341244638d16f527e1bf17312](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-dind-image/tags/)
 
 
 [gcr.io/k8s-minikube/localkube-dind-image:f582814c9d46ce132237c0246e4817d6ac23ee8a](https://hub.docker.com/r/anjia0532/k8s-minikube.localkube-dind-image/tags/)
