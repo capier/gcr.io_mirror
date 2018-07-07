@@ -324,6 +324,9 @@
 [gcr.io/runconduit/proxy-init:git-21886760](https://hub.docker.com/r/anjia0532/runconduit.proxy-init/tags/)
 
 
+[gcr.io/runconduit/proxy-init:git-219b017c](https://hub.docker.com/r/anjia0532/runconduit.proxy-init/tags/)
+
+
 [gcr.io/runconduit/proxy-init:git-221c781b](https://hub.docker.com/r/anjia0532/runconduit.proxy-init/tags/)
 
 
@@ -498,6 +501,9 @@
 [gcr.io/runconduit/proxy-init:git-372038f8](https://hub.docker.com/r/anjia0532/runconduit.proxy-init/tags/)
 
 
+[gcr.io/runconduit/proxy-init:git-372e145f](https://hub.docker.com/r/anjia0532/runconduit.proxy-init/tags/)
+
+
 [gcr.io/runconduit/proxy-init:git-37434d04](https://hub.docker.com/r/anjia0532/runconduit.proxy-init/tags/)
 
 
@@ -526,6 +532,9 @@
 
 
 [gcr.io/runconduit/proxy-init:git-3ca8e84e](https://hub.docker.com/r/anjia0532/runconduit.proxy-init/tags/)
+
+
+[gcr.io/runconduit/proxy-init:git-3df65b96](https://hub.docker.com/r/anjia0532/runconduit.proxy-init/tags/)
 
 
 [gcr.io/runconduit/proxy-init:git-3e67c8f5](https://hub.docker.com/r/anjia0532/runconduit.proxy-init/tags/)
@@ -894,6 +903,9 @@
 [gcr.io/runconduit/proxy-init:git-689c4226](https://hub.docker.com/r/anjia0532/runconduit.proxy-init/tags/)
 
 
+[gcr.io/runconduit/proxy-init:git-693acdbf](https://hub.docker.com/r/anjia0532/runconduit.proxy-init/tags/)
+
+
 [gcr.io/runconduit/proxy-init:git-698e65da](https://hub.docker.com/r/anjia0532/runconduit.proxy-init/tags/)
 
 
@@ -1221,7 +1233,13 @@
 [gcr.io/runconduit/proxy-init:git-926c4cf3](https://hub.docker.com/r/anjia0532/runconduit.proxy-init/tags/)
 
 
+[gcr.io/runconduit/proxy-init:git-930d1658](https://hub.docker.com/r/anjia0532/runconduit.proxy-init/tags/)
+
+
 [gcr.io/runconduit/proxy-init:git-935ccd5f](https://hub.docker.com/r/anjia0532/runconduit.proxy-init/tags/)
+
+
+[gcr.io/runconduit/proxy-init:git-9379bd54](https://hub.docker.com/r/anjia0532/runconduit.proxy-init/tags/)
 
 
 [gcr.io/runconduit/proxy-init:git-9410da47](https://hub.docker.com/r/anjia0532/runconduit.proxy-init/tags/)
@@ -1270,6 +1288,9 @@
 
 
 [gcr.io/runconduit/proxy-init:git-9bf1e60a](https://hub.docker.com/r/anjia0532/runconduit.proxy-init/tags/)
+
+
+[gcr.io/runconduit/proxy-init:git-9bf549b5](https://hub.docker.com/r/anjia0532/runconduit.proxy-init/tags/)
 
 
 [gcr.io/runconduit/proxy-init:git-9bfd8898](https://hub.docker.com/r/anjia0532/runconduit.proxy-init/tags/)
@@ -1788,6 +1809,9 @@
 [gcr.io/runconduit/proxy-init:git-d3c6a4e8](https://hub.docker.com/r/anjia0532/runconduit.proxy-init/tags/)
 
 
+[gcr.io/runconduit/proxy-init:git-d42d7cb0](https://hub.docker.com/r/anjia0532/runconduit.proxy-init/tags/)
+
+
 [gcr.io/runconduit/proxy-init:git-d4505b55](https://hub.docker.com/r/anjia0532/runconduit.proxy-init/tags/)
 
 
@@ -1840,6 +1864,9 @@
 
 
 [gcr.io/runconduit/proxy-init:git-dcc6c081](https://hub.docker.com/r/anjia0532/runconduit.proxy-init/tags/)
+
+
+[gcr.io/runconduit/proxy-init:git-dcdf4b36](https://hub.docker.com/r/anjia0532/runconduit.proxy-init/tags/)
 
 
 [gcr.io/runconduit/proxy-init:git-dce31b88](https://hub.docker.com/r/anjia0532/runconduit.proxy-init/tags/)
@@ -2082,6 +2109,9 @@
 [gcr.io/runconduit/proxy-init:git-fbba6bf4](https://hub.docker.com/r/anjia0532/runconduit.proxy-init/tags/)
 
 
+[gcr.io/runconduit/proxy-init:git-fd1aecfa](https://hub.docker.com/r/anjia0532/runconduit.proxy-init/tags/)
+
+
 [gcr.io/runconduit/proxy-init:git-fd3cfcb5](https://hub.docker.com/r/anjia0532/runconduit.proxy-init/tags/)
 
 
@@ -2125,5 +2155,8 @@
 
 
 [gcr.io/runconduit/proxy-init:v0.4.4](https://hub.docker.com/r/anjia0532/runconduit.proxy-init/tags/)
+
+
+[gcr.io/runconduit/proxy-init:v0.5.0](https://hub.docker.com/r/anjia0532/runconduit.proxy-init/tags/)
 
 

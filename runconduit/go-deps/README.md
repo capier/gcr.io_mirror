@@ -54,6 +54,9 @@
 [gcr.io/runconduit/go-deps:7bceac7a](https://hub.docker.com/r/anjia0532/runconduit.go-deps/tags/)
 
 
+[gcr.io/runconduit/go-deps:8b4952a2](https://hub.docker.com/r/anjia0532/runconduit.go-deps/tags/)
+
+
 [gcr.io/runconduit/go-deps:8c385762](https://hub.docker.com/r/anjia0532/runconduit.go-deps/tags/)
 
 
