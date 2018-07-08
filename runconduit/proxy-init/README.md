@@ -1212,6 +1212,9 @@
 [gcr.io/runconduit/proxy-init:git-903fd407](https://hub.docker.com/r/anjia0532/runconduit.proxy-init/tags/)
 
 
+[gcr.io/runconduit/proxy-init:git-9050b2d3](https://hub.docker.com/r/anjia0532/runconduit.proxy-init/tags/)
+
+
 [gcr.io/runconduit/proxy-init:git-906d4e8b](https://hub.docker.com/r/anjia0532/runconduit.proxy-init/tags/)
 
 

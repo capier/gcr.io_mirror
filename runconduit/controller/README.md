@@ -1260,6 +1260,9 @@
 [gcr.io/runconduit/controller:git-903fd407](https://hub.docker.com/r/anjia0532/runconduit.controller/tags/)
 
 
+[gcr.io/runconduit/controller:git-9050b2d3](https://hub.docker.com/r/anjia0532/runconduit.controller/tags/)
+
+
 [gcr.io/runconduit/controller:git-906d4e8b](https://hub.docker.com/r/anjia0532/runconduit.controller/tags/)
 
 
@@ -2152,6 +2155,9 @@
 
 
 [gcr.io/runconduit/controller:git-f66ec641](https://hub.docker.com/r/anjia0532/runconduit.controller/tags/)
+
+
+[gcr.io/runconduit/controller:git-f6e37890](https://hub.docker.com/r/anjia0532/runconduit.controller/tags/)
 
 
 [gcr.io/runconduit/controller:git-f721a0f8](https://hub.docker.com/r/anjia0532/runconduit.controller/tags/)
