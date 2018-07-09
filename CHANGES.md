@@ -1,3 +1,11 @@
+## 2018-07-09 01:00 
+
+[gcr.io/kubernetes-helm/tiller:canary](https://hub.docker.com/r/anjia0532/kubernetes-helm.tiller/tags/)
+
+
+[gcr.io/spinnaker-marketplace/gradle_cache:latest](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.gradle_cache/tags/)
+
+
 ## 2018-07-08 01:05 
 
 [gcr.io/runconduit/proxy:git-f6e37890](https://hub.docker.com/r/anjia0532/runconduit.proxy/tags/)
