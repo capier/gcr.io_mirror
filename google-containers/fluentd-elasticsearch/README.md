@@ -84,3 +84,6 @@
 [gcr.io/google-containers/fluentd-elasticsearch:v2.1.0](https://hub.docker.com/r/anjia0532/google-containers.fluentd-elasticsearch/tags/)
 
 
+[gcr.io/google-containers/fluentd-elasticsearch:v2.2.0](https://hub.docker.com/r/anjia0532/google-containers.fluentd-elasticsearch/tags/)
+
+
