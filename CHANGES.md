@@ -1,3 +1,26 @@
+## 2018-07-11 01:04 
+
+[gcr.io/kubernetes-helm/tiller:canary](https://hub.docker.com/r/anjia0532/kubernetes-helm.tiller/tags/)
+
+
+[gcr.io/spinnaker-marketplace/orca:1.0.0-20180710022806](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.orca/tags/)
+
+
+[gcr.io/spinnaker-marketplace/fiat:1.0.0-20180710022806](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.fiat/tags/)
+
+
+[gcr.io/spinnaker-marketplace/deck:2.4.0-20180710022806](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.deck/tags/)
+
+
+[gcr.io/spinnaker-marketplace/igor:0.12.0-20180710022806](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.igor/tags/)
+
+
+[gcr.io/spinnaker-marketplace/clouddriver:3.3.0-20180710022806](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.clouddriver/tags/)
+
+
+[gcr.io/spinnaker-marketplace/gradle_cache:latest](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.gradle_cache/tags/)
+
+
 ## 2018-07-10 01:04 
 
 [gcr.io/runconduit/proxy-init:git-6f804d60](https://hub.docker.com/r/anjia0532/runconduit.proxy-init/tags/)
