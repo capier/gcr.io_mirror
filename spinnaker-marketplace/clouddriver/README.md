@@ -294,3 +294,6 @@
 [gcr.io/spinnaker-marketplace/clouddriver:3.3.0-20180710022806](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.clouddriver/tags/)
 
 
+[gcr.io/spinnaker-marketplace/clouddriver:3.3.0-20180711133924](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.clouddriver/tags/)
+
+
