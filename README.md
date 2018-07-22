@@ -1,4 +1,4 @@
-Google Container Registry Mirror [last sync 2018-07-22 01:01 UTC]
+Google Container Registry Mirror [last sync 2018-07-22 13:08 UTC]
 -------
 
 [![Sync Status](https://travis-ci.org/anjia0532/gcr.io_mirror.svg?branch=sync)](https://travis-ci.org/anjia0532/gcr.io_mirror)
@@ -19,9 +19,14 @@ Example
 -------
 
 ```bash
-docker pull gcr.io/google-containers/federation-controller-manager-arm64:v1.3.1-beta.1 
-# eq 
+
 docker pull anjia0532/google-containers.federation-controller-manager-arm64:v1.3.1-beta.1
+# eq
+docker pull gcr.io/google-containers/federation-controller-manager-arm64:v1.3.1-beta.1 
+
+# special
+# eq 
+docker pull k8s.gcr.io/federation-controller-manager-arm64:v1.3.1-beta.1
 ```
 
 ReTag anjia0532 images to gcr.io 
