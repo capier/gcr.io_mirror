@@ -18,6 +18,9 @@
 [gcr.io/google-containers/metadata-proxy:1.0](https://hub.docker.com/r/anjia0532/google-containers.metadata-proxy/tags/)
 
 
+[gcr.io/google-containers/metadata-proxy:v0.1.10](https://hub.docker.com/r/anjia0532/google-containers.metadata-proxy/tags/)
+
+
 [gcr.io/google-containers/metadata-proxy:v0.1.4-r1](https://hub.docker.com/r/anjia0532/google-containers.metadata-proxy/tags/)
 
 

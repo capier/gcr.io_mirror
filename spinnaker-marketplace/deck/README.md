@@ -69,6 +69,12 @@
 [gcr.io/spinnaker-marketplace/deck:2.1.1-20180302170105](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.deck/tags/)
 
 
+[gcr.io/spinnaker-marketplace/deck:2.1.2-20180726153913](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.deck/tags/)
+
+
+[gcr.io/spinnaker-marketplace/deck:2.1.2-20180726172544](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.deck/tags/)
+
+
 [gcr.io/spinnaker-marketplace/deck:2.2.0-20180423102959](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.deck/tags/)
 
 
@@ -246,6 +252,9 @@
 [gcr.io/spinnaker-marketplace/deck:2.3.2-20180712155532](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.deck/tags/)
 
 
+[gcr.io/spinnaker-marketplace/deck:2.3.3-20180726132353](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.deck/tags/)
+
+
 [gcr.io/spinnaker-marketplace/deck:2.4.0-20180622142512](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.deck/tags/)
 
 
@@ -298,5 +307,29 @@
 
 
 [gcr.io/spinnaker-marketplace/deck:2.4.0-20180714022806](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.deck/tags/)
+
+
+[gcr.io/spinnaker-marketplace/deck:2.4.0-20180716022805](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.deck/tags/)
+
+
+[gcr.io/spinnaker-marketplace/deck:2.4.0-20180717210553](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.deck/tags/)
+
+
+[gcr.io/spinnaker-marketplace/deck:2.4.0-20180718142610](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.deck/tags/)
+
+
+[gcr.io/spinnaker-marketplace/deck:2.4.0-20180724022806](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.deck/tags/)
+
+
+[gcr.io/spinnaker-marketplace/deck:2.4.0-20180724145924](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.deck/tags/)
+
+
+[gcr.io/spinnaker-marketplace/deck:2.4.0-20180725171516](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.deck/tags/)
+
+
+[gcr.io/spinnaker-marketplace/deck:2.4.0-20180726022808](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.deck/tags/)
+
+
+[gcr.io/spinnaker-marketplace/deck:2.4.0-20180726110538](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.deck/tags/)
 
 

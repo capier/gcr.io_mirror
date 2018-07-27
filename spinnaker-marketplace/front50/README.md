@@ -84,6 +84,9 @@
 [gcr.io/spinnaker-marketplace/front50:0.12.0-20180713022806](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.front50/tags/)
 
 
+[gcr.io/spinnaker-marketplace/front50:0.12.0-20180721022805](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.front50/tags/)
+
+
 [gcr.io/spinnaker-marketplace/front50:0.4.0-33](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.front50/tags/)
 
 

@@ -69,6 +69,12 @@
 [gcr.io/google-containers/cloud-controller-manager-arm:v1.10.6-beta.0](https://hub.docker.com/r/anjia0532/google-containers.cloud-controller-manager-arm/tags/)
 
 
+[gcr.io/google-containers/cloud-controller-manager-arm:v1.10.6](https://hub.docker.com/r/anjia0532/google-containers.cloud-controller-manager-arm/tags/)
+
+
+[gcr.io/google-containers/cloud-controller-manager-arm:v1.10.7-beta.0](https://hub.docker.com/r/anjia0532/google-containers.cloud-controller-manager-arm/tags/)
+
+
 [gcr.io/google-containers/cloud-controller-manager-arm:v1.11.0-alpha.0](https://hub.docker.com/r/anjia0532/google-containers.cloud-controller-manager-arm/tags/)
 
 
@@ -100,6 +106,12 @@
 
 
 [gcr.io/google-containers/cloud-controller-manager-arm:v1.11.1-beta.0](https://hub.docker.com/r/anjia0532/google-containers.cloud-controller-manager-arm/tags/)
+
+
+[gcr.io/google-containers/cloud-controller-manager-arm:v1.11.1](https://hub.docker.com/r/anjia0532/google-containers.cloud-controller-manager-arm/tags/)
+
+
+[gcr.io/google-containers/cloud-controller-manager-arm:v1.11.2-beta.0](https://hub.docker.com/r/anjia0532/google-containers.cloud-controller-manager-arm/tags/)
 
 
 [gcr.io/google-containers/cloud-controller-manager-arm:v1.12.0-alpha.0](https://hub.docker.com/r/anjia0532/google-containers.cloud-controller-manager-arm/tags/)

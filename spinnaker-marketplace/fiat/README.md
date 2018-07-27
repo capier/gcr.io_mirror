@@ -138,3 +138,9 @@
 [gcr.io/spinnaker-marketplace/fiat:1.0.0-20180713022806](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.fiat/tags/)
 
 
+[gcr.io/spinnaker-marketplace/fiat:1.0.0-20180717022805](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.fiat/tags/)
+
+
+[gcr.io/spinnaker-marketplace/fiat:1.0.0-20180720135840](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.fiat/tags/)
+
+

@@ -1617,3 +1617,15 @@
 [gcr.io/spinnaker-marketplace/halyard:1.5.0](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
 
 
+[gcr.io/spinnaker-marketplace/halyard:1.5.1-20180721030505](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
+[gcr.io/spinnaker-marketplace/halyard:1.5.1-20180725030505](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
+[gcr.io/spinnaker-marketplace/halyard:1.6.0-20180725155237](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
+[gcr.io/spinnaker-marketplace/halyard:1.6.0-20180727030509](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+

@@ -51,3 +51,6 @@
 [gcr.io/google-containers/heapster-amd64:v1.5.3](https://hub.docker.com/r/anjia0532/google-containers.heapster-amd64/tags/)
 
 
+[gcr.io/google-containers/heapster-amd64:v1.5.4](https://hub.docker.com/r/anjia0532/google-containers.heapster-amd64/tags/)
+
+
