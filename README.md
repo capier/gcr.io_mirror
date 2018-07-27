@@ -1,4 +1,4 @@
-Google Container Registry Mirror [last sync 2018-07-27 01:03 UTC]
+Google Container Registry Mirror [last sync 2018-07-27 06:58 UTC]
 -------
 
 [![Sync Status](https://travis-ci.org/anjia0532/gcr.io_mirror.svg?branch=sync)](https://travis-ci.org/anjia0532/gcr.io_mirror)
@@ -69,7 +69,7 @@ done
 [Changelog](./CHANGES.md)
 -------
 
-Mirror 7 namespaces image from gcr.io
+Mirror 8 namespaces image from gcr.io
 -----
 
 
@@ -92,5 +92,8 @@ Mirror 7 namespaces image from gcr.io
 
 
 [gcr.io/google-containers/*](./google-containers/README.md)
+
+
+[gcr.io/distroless/*](./distroless/README.md)
 
 
