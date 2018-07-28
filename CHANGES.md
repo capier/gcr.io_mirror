@@ -1,3 +1,11 @@
+## 2018-07-28 01:06 
+
+[gcr.io/google-containers/netd-amd64:0.1.3](https://hub.docker.com/r/anjia0532/google-containers.netd-amd64/tags/)
+
+
+[gcr.io/google-containers/gcp-controller-manager:1edadd08fb75221f975961642cfde871dba8fe90](https://hub.docker.com/r/anjia0532/google-containers.gcp-controller-manager/tags/)
+
+
 ## 2018-07-27 10:10 
 
 [gcr.io/spinnaker-marketplace/clouddriver:3.3.0-20180718142610](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.clouddriver/tags/)
