@@ -1,3 +1,11 @@
+## 2018-07-29 01:14 
+
+[gcr.io/spinnaker-marketplace/halyard:1.6.0-20180728030508](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
+[gcr.io/spinnaker-marketplace/gradle_cache:latest](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.gradle_cache/tags/)
+
+
 ## 2018-07-28 01:06 
 
 [gcr.io/google-containers/netd-amd64:0.1.3](https://hub.docker.com/r/anjia0532/google-containers.netd-amd64/tags/)
