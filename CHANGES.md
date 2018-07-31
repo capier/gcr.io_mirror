@@ -1,3 +1,44 @@
+## 2018-07-31 01:16 
+
+[gcr.io/kubernetes-helm/tiller:canary](https://hub.docker.com/r/anjia0532/kubernetes-helm.tiller/tags/)
+
+
+[gcr.io/google-samples/gb-redisslave-ppc64le:v2](https://hub.docker.com/r/anjia0532/google-samples.gb-redisslave-ppc64le/tags/)
+
+
+[gcr.io/google-samples/gb-redisslave-arm:v2](https://hub.docker.com/r/anjia0532/google-samples.gb-redisslave-arm/tags/)
+
+
+[gcr.io/google-samples/gb-redisslave:v2](https://hub.docker.com/r/anjia0532/google-samples.gb-redisslave/tags/)
+
+
+[gcr.io/google-samples/gb-redisslave-amd64:v2](https://hub.docker.com/r/anjia0532/google-samples.gb-redisslave-amd64/tags/)
+
+
+[gcr.io/google-samples/gb-frontend-arm64:v5](https://hub.docker.com/r/anjia0532/google-samples.gb-frontend-arm64/tags/)
+
+
+[gcr.io/google-samples/gb-frontend-amd64:v5](https://hub.docker.com/r/anjia0532/google-samples.gb-frontend-amd64/tags/)
+
+
+[gcr.io/google-samples/gb-frontend:v5](https://hub.docker.com/r/anjia0532/google-samples.gb-frontend/tags/)
+
+
+[gcr.io/google-samples/gb-redisslave-arm64:v2](https://hub.docker.com/r/anjia0532/google-samples.gb-redisslave-arm64/tags/)
+
+
+[gcr.io/google-samples/gb-frontend-ppc64le:v5](https://hub.docker.com/r/anjia0532/google-samples.gb-frontend-ppc64le/tags/)
+
+
+[gcr.io/google-samples/gb-frontend-arm:v5](https://hub.docker.com/r/anjia0532/google-samples.gb-frontend-arm/tags/)
+
+
+[gcr.io/spinnaker-marketplace/clouddriver:3.3.3-20180730044905](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.clouddriver/tags/)
+
+
+[gcr.io/spinnaker-marketplace/gradle_cache:latest](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.gradle_cache/tags/)
+
+
 ## 2018-07-30 01:17 
 
 [gcr.io/spinnaker-marketplace/deck:2.4.0-20180729090531](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.deck/tags/)
