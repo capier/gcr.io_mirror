@@ -1,3 +1,29 @@
+## 2018-08-01 01:17 
+
+[gcr.io/google-containers/netd-amd64:0.1.4](https://hub.docker.com/r/anjia0532/google-containers.netd-amd64/tags/)
+
+
+[gcr.io/kubernetes-helm/tiller:v2.10.0-rc.2](https://hub.docker.com/r/anjia0532/kubernetes-helm.tiller/tags/)
+
+
+[gcr.io/google-containers/k8s-tpu-operator:3836318037f23279a33e021ad409da9966283e70](https://hub.docker.com/r/anjia0532/google-containers.k8s-tpu-operator/tags/)
+
+
+[gcr.io/google-containers/gcp-controller-manager:434dd3197ae6f649ab796765bbdef008043bda69](https://hub.docker.com/r/anjia0532/google-containers.gcp-controller-manager/tags/)
+
+
+[gcr.io/spinnaker-marketplace/deck:2.4.0-20180731022809](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.deck/tags/)
+
+
+[gcr.io/kubernetes-helm/tiller:canary](https://hub.docker.com/r/anjia0532/kubernetes-helm.tiller/tags/)
+
+
+[gcr.io/spinnaker-marketplace/halyard:1.6.0-20180731030508](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
+
+
+[gcr.io/spinnaker-marketplace/gradle_cache:latest](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.gradle_cache/tags/)
+
+
 ## 2018-07-31 01:16 
 
 [gcr.io/kubernetes-helm/tiller:canary](https://hub.docker.com/r/anjia0532/kubernetes-helm.tiller/tags/)
