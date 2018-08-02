@@ -117,6 +117,9 @@
 [gcr.io/google-containers/cloud-controller-manager:v1.12.0-alpha.0](https://hub.docker.com/r/anjia0532/google-containers.cloud-controller-manager/tags/)
 
 
+[gcr.io/google-containers/cloud-controller-manager:v1.12.0-alpha.1](https://hub.docker.com/r/anjia0532/google-containers.cloud-controller-manager/tags/)
+
+
 [gcr.io/google-containers/cloud-controller-manager:v1.7.0](https://hub.docker.com/r/anjia0532/google-containers.cloud-controller-manager/tags/)
 
 

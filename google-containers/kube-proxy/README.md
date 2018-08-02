@@ -117,6 +117,9 @@
 [gcr.io/google-containers/kube-proxy:v1.12.0-alpha.0](https://hub.docker.com/r/anjia0532/google-containers.kube-proxy/tags/)
 
 
+[gcr.io/google-containers/kube-proxy:v1.12.0-alpha.1](https://hub.docker.com/r/anjia0532/google-containers.kube-proxy/tags/)
+
+
 [gcr.io/google-containers/kube-proxy:v1.2.0-alpha.8](https://hub.docker.com/r/anjia0532/google-containers.kube-proxy/tags/)
 
 
