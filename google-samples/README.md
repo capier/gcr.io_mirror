@@ -194,6 +194,36 @@
 
 
 
+[gcr.io/google-samples/ml-pipeline-cmle-op](https://hub.docker.com/r/anjia0532/google-samples.ml-pipeline-cmle-op/tags/)
+-----
+
+
+
+[gcr.io/google-samples/ml-pipeline-dataflow-tfma-taxi](https://hub.docker.com/r/anjia0532/google-samples.ml-pipeline-dataflow-tfma-taxi/tags/)
+-----
+
+
+
+[gcr.io/google-samples/ml-pipeline-dataflow-tftbq-taxi](https://hub.docker.com/r/anjia0532/google-samples.ml-pipeline-dataflow-tftbq-taxi/tags/)
+-----
+
+
+
+[gcr.io/google-samples/ml-pipeline-kubeflow-tfserve-taxi](https://hub.docker.com/r/anjia0532/google-samples.ml-pipeline-kubeflow-tfserve-taxi/tags/)
+-----
+
+
+
+[gcr.io/google-samples/ml-pipeline-kubeflow-tf-taxi](https://hub.docker.com/r/anjia0532/google-samples.ml-pipeline-kubeflow-tf-taxi/tags/)
+-----
+
+
+
+[gcr.io/google-samples/ml-pipeline-kubeflow-trainer-taxi](https://hub.docker.com/r/anjia0532/google-samples.ml-pipeline-kubeflow-trainer-taxi/tags/)
+-----
+
+
+
 [gcr.io/google-samples/mysql](https://hub.docker.com/r/anjia0532/google-samples.mysql/tags/)
 -----
 
