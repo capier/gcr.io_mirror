@@ -1,3 +1,11 @@
+## 2018-08-06 01:17 
+
+[gcr.io/google-samples/ml-pipeline-dataflow-tfma-taxi:latest](https://hub.docker.com/r/anjia0532/google-samples.ml-pipeline-dataflow-tfma-taxi/tags/)
+
+
+[gcr.io/spinnaker-marketplace/gradle_cache:latest](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.gradle_cache/tags/)
+
+
 ## 2018-08-05 01:18 
 
 [gcr.io/spinnaker-marketplace/halyard:1.6.0-20180804030509](https://hub.docker.com/r/anjia0532/spinnaker-marketplace.halyard/tags/)
